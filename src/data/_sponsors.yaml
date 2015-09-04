@@ -14,13 +14,14 @@
   logo: http://dn-pyconcn.qbox.me/zoomquiet/stuff14/logo/cstnet-logo.png?imageView2/2/w/200
   link: http://www.cstnet.net.cn/overview.htm
   intro: "中国科技网是中国科学院领导下的学术性,非盈利的科研计算机网络. 中国科技网(CSTNET)已经成为中国互联网行业快速发展的一支重要力量,为广大用户提供互联网接入,小区宽带,科研数据中心(IDC),网络管理与安全服务,视频会议系统,邮件系统,桌面会议系统,会议服务平台,科研在线文档库,组织通讯录,实验室信息系统,科研主页,科信,中国科技网通行证等服务,以及网络前沿技术研发等,为国家科学技术的创新发展提供基础性的信息化支撑与保障. "
+  intro_en: "China Science & Technology Network is a academic and non-profit research network under the umbrella of Chinese Academy of Sciences. China Science & Technology Network (CSTNET) has become an important force in the development of Chinese internet industry. Its service has covered internet access, broadband connection, scientific data center (IDC), network management and security services, video conference systems, mailing system, desktop conference systems, conference service platform, online scientific documents, organization contacts, labartory information system, scientific research front pages, scientific communicaion, China Science Network passport and so on. It is entrenched in the national scientific research and has contributed significantly to the scientific research of the country."
 -
   level_partner: 1
   level: partner
   logo: http://dn-pyconcn.qbox.me/zoomquiet/stuff15/logo/osc_logo.png?imageView2/2/w/200
   link: http://www.oschina.net/
   intro: "开源中国 成立于2008年8月，是目前国内最大的开源技术社区，拥有超过200万会员，形成了由开源软件库、代码分享、资讯、协作翻译、讨论区和博客等几大频道内容，为IT开发者提供了一个发现、使用、并交流开源技术的平台。2013年，开源中国建立大型综合性的云开发平台-中国源，为中国广大开发者提供团队协作、源码托管、代码质量分析、代码评审、测试、代码演示平台等功能。"
-
+  intro_en: "Open Source China  is founded in Aug, 2008. It is the biggest open source community in China. It currently has over 2 millions membership, and has several channels including open source software libraries, code sharing, news, collaborative translation, forum and blogs.  It becomes a platform of discovery and sharing for Chinese IT developers. 2013, OSChina build up a comprehensive PaaS platform, where developers can collaborate within a team, set up code repository, do code analysis, review, testing, demo and so on."
 
 #########################################
 #   超级定制:独家招聘合作伙伴
@@ -32,7 +33,7 @@
   logo: http://pyconcn.qiniudn.com/zoomquiet/stuff15/logo/liepin.png?imageView2/2/w/210
   link: http://www.liepin.com/
   intro: "猎聘网（www.liepin.com），隶属于万仕道（北京）管理咨询有限公司，于2011年正式上线，是国内唯一真正实现企业、猎头和职业经理人三方互动的职业发展平台。猎聘网始终专注于打造以经理人个人用户体验为核心的职业发展平台，全面颠覆传统网络招聘以企业为核心的广告发布平台。截至2015年6月，猎聘网拥有超过2000万的注册会员，已服务超过39万家优质企业。目前，有超过20万名猎头在猎聘网平台上寻找核心岗位的候选人。猎聘网的业务遍及中国北京、上海、广州、深圳、天津、大连、杭州、南京、武汉、厦门、成都、青岛、重庆、郑州等十余个城市。 "
-
+  intro_en: "Liepin Network,  is founded by Wisest Consulting Company in 2011. It is the only platform in China that brings the enterprises, headhunters and professional managers together in a mutual interactive way. Liepin Network is focused on the user experiences of the professional managers, turning away from the conventional platform that are more leaned towards advertising platform for the enterprises. Up until Jun 2015, Liepin Network has over 20 millions membership, and serves over 390,000 top tier enterprises. Currently, there is over 200,000 headhunters on Liepin Network. Liepin Network has covered over 10 cities in China."
 #########################################
 #   钻石级
 #########################################
@@ -60,7 +61,7 @@
   logo: http://pyconcn.qiniudn.com/zoomquiet/stuff15/logo/meituan.png?imageView2/2/h/80
   link: http://mos.meituan.com/
   intro: "美团云是美团推出的公有云平台，致力于为千万用户提供最稳定、可靠、高效的基础设施云服务以及大数据解决方案。2013年5月，美团云正式对外开放计算资源。此后，美团云依靠强大的技术团队，不断优化产品，注重用户体验、提供最优的底层架构以及稳定的网络服务。目前已服务众多企业级用户，行业覆盖O2O生活服务提供商、在线教育、知名电商、互联网金融、游戏、智能硬件、新媒体、汽车等。"
-  intro_en: "..."
+  intro_en: "Meituan Cloud is a public cloud platform from Meituan. Its mission is to build the most stable, reliable, and highly efficient infrastructure platform and big data platform. May 2013, Meituan Cloud started to open up its computing resources to the public. After that, through its strong tech team, Meituan Cloud is continuously improving its product, focusing on the user experiences, and provide the highest quality infrastructure and most stable network service. Currently it has been serving many enterprise customers, and cover O2O service providers, online education, well-known e-commerce sites, internet financial sites, gaming, smart devices, new media, automobile, and etc."
 -
   level_platinum: 1
   level: platinum
@@ -74,7 +75,7 @@
   logo: http://pyconcn.qiniudn.com/zoomquiet/stuff15/logo/daocloud_long-green.png?imageView2/2/w/200
   link: http://www.daocloud.io/
   intro: "DaoCloud是业界领先的企业级容器云平台和解决方案提供商，致力于以Docker为代表的容器技术，为企业打造面向下一代互联网应用的交付和运维平台，帮助客户实现云端持续创新。DaoCloud采用混合云模式，以云端SaaS化容器管理平台，对接各类主机资源，构建跨云跨网的容器主机资源池，提供全流程标准化的应用持续集成、镜像构建、发布管理和容器运维服务。DaoCloud在开发运维联动、渐进式混合云构建、大规模高并发集群、微服务架构设计、分布式应用运维等场景拥有丰富经验和成功案例。DaoCloud总部位于中国上海，并在北京设有分支机构。"
-  intro_en: "..."
+  intro_en: "DalCloud is the leading enterprise container platform and solution provider in China, focused on container technology such as Docker. It helps enterprises building up the next generation software delivery and maintenance platform, and continuously innovate in the cloud age. DaoCloud adopts the hybrid cloud strategy, connects SaaS container management platform with server infrastructures, and builds up container pools across cloud and across network. It provides the full workflow and standardized DevOps, docker image setup, release management, and container maintenance. DaoCloud has rich experiences in DevOps development, gradual hybrid cloud construction, high volume and throughput clusters, micro service architecture design, distributed system maintenance. DaoCloud is headquatered in Shanghai, and has a branch in Beijing."
 -
   level_platinum: 10
   level: platinum
@@ -106,7 +107,7 @@
   logo: http://www2.res.meizu.com/zh_cn/images/common/logo.jpg
   link: http://www.meizu.com
   intro: "魅族公司成立于2003年。创始人从小沉迷电子热爱科技，魅族就是电子梦想和共赢理念的结晶。从创立以来的一次次飞跃不仅是魅族人热爱追求的结果，更是梦想力量的体现。魅族因梦想而立。热爱而极致，专注和长久的追求，必将带来商业产品无与伦比的梦想之作。魅族的一切将超越常规，超乎想象。"
-  intro_en: "..."
+  intro_en: "Meizu is founded in 2003. The founder was fantasized by electronic technology since childhood, and Meizu is the crystallization of that dream. Every leap since founding Is not only the result of passionate pursuit of Meizu people, also an embodiment of the power of dream. Meizu is born out of a dream. Passion to the extreme, long time focus and unending pursuit, will certainly produce a great product. Everything from Meizu is beyond ordinary, and beyond imagination."
 
 -
   level_gold: 1
@@ -125,7 +126,7 @@
   logo: http://pyconcn.qiniucdn.com/zoomquiet/stuff15/logo/uc_logo.png?imageView2/2/w/120
   link: http://uc.cn
   intro: "阿里巴巴移动事业群，以移动互联网领军企业UC优视为基础，整合阿里巴巴集团相关优势资源组建, 旗下拥有UC浏览器、神马搜索、九游、阿里文学、PP助手等多个行业领先的移动互联网产品及平台，为用户提供多领域、全方位的移动互联网服务。阿里移动事业群专注移动互联网业务创新，致力于打造简单，可信赖的移动互联网信息服务平台，用技术和数据创造变量。"
-  intro_en: "Ganguo Mobile is the most well-known development team in Pearl River Delta. With years of experience in mobile application and web development; our specialists offer cost-effective mobile solution and maintenance program. The integration of our experience; creativity and vision has helped us to deliver concrete product with great satisfaction to our clients.  Our main business are mobile app development (iOS / Android); development and implementation of Wechat services account; big data analysis and other mobile related territory. We have been working with leading brands in information technology/ automobile/ consumer product/ real estate/ Internet/ finance/ and entertainment business."
+  intro_en: "The Mobile BG of Alibaba is mainly built on UC, together with other resources from Alibaba Group. It is devoted to building a simple and reliable mobile network information platform. "
 -
   level_silver: 1
   level: silver
@@ -151,9 +152,11 @@
   logo: http://pyconcn.qiniucdn.com/zoomquiet/stuff15/logo/qichang_w2048.png?imageView2/2/w/120
   link: http://gzqichang.com
   intro: "广州齐昌网络科技有限公司,专注于技术咨询和开发外包业务,承接基于Web技术的开发业务外包,包括基于浏览器/服务器模式的应用软件,电子商务和电子政务系统研发,承接基于iOS,Android的软件开发业务外包,承接基于 Linux的系统软件开发外包. 齐昌网络由赖勇浩于2014年底创办,赖勇浩也是多届的PyCon分享讲师,在Python相关技术上有深入研究,除技术博客有近250万浏览量外还合著有<<编写高质量代码:改善Python程序的91个建议>>一书. "
+  intro_en: "Qichang Inc. is a software consulting and outsourcing company, with focus on web technologies, including browser/server web apps development,  e-commerce and e-goverment platforms, ios and android apps development, and Linux software development. Qichang Inc. is founded by Mr. Yonghao Lai at the end of 2014, and Mr. Lai is a frequent speaker in PyCon China. He has deep knowledge of Python programming and related technologies. In addition to a popular tech blog, he is a co-writer of a published book 'Writing solid Python code: 91 suggestions to improve Python program'. "
 -
   level_bronze: 1
   level: bronze
   logo: http://pyconcn.qiniucdn.com/zoomquiet/stuff15/logo/easydo_logo.png?imageView2/2/w/60
   link: http://easydo.cn
   intro: "易开发，是一家为开发者提供企业应用快速开发平台的公司。目前专注于微信企业号的快速（无码）定制开发方案。在当前互联网+浪潮中，我们帮助企业多快好省地迈向互联网化和信息化。我们在丰厚企业信息化基础设施之上，提供了创新的、人性化开发工具，极大地降低开发者门槛，提升开发效率，降低了项目开发和维护成本。"
+  intro_en: "Easydo Inc. is a company focused on providing a rapid enterprise software development platform. Currently it is focused on rapid app development on WeChat platform. In the trend of Internet Plus, it helps various companies to be powered by internet and digitization. In addition to helping  enterprise customers building up their information system infrastructure, it also provides innovative and easy to use development toolkits, boosting the programming efficiency, lowering the development and maintenance cost."
