@@ -7,13 +7,14 @@
   logo: http://dn-pyconcn.qbox.me/zoomquiet/stuff15/logo/shpudongsp_logo.png?imageView2/2/w/200
   link: http://www.spsp.com.cn/
   intro: "上海浦东软件园是上海乃至全国的软件产品、技术和人才的集散地;拥有健全的基础设施配套、共性的技术支撑平台、良好的企业服务体系、必要的生产力要素市场、完善的企业创新与孵化机制、强大的产业集群力量，从而成为可供居住、学习、工作及休闲娱乐为一体的全方位生态社区。  上海浦东软件园致力于打造世界级软件产业创新社区。"
-  intro_en: "..."
+  intro_en: "Shanghai Pudong Software Park is a platform to support software talents and their products. It has the facility, technology platform, incubation support, industrial train to build a comprehensive ecosystem for software innovation."
 -
   level_partner: 1
   level: partner
   logo: http://dn-pyconcn.qbox.me/zoomquiet/stuff15/logo/techparty_barnner.png?imageView2/2/w/200
   link: http://techparty.org/about/
   intro: "珠三角技术沙龙 - 打造泛珠三角技术圈线上线下交流的平台! 珠三角技术沙龙以定期主办线下专业技术沙龙为特色，在IT技术行业内享富盛名，以泛珠三角技术圈为核心，致力打造中国顶尖技术交流平台，为广大程序猿、攻城狮、和技术爱好者量身定制。沙龙定期会与各大技术社区合作，组织主办相关沙龙活动，邀请技术行业和各大互联网公司一线大牛，保证终身免费分享专业实用的行业经验和知识。 "
+  intro_en: "The Pearl River Delta Tech Party is the grassroots tech community for the techies in the large Perl River Delta region. It hosts tech salons periodically on a regular basis and is well-known and well respected in the tech community in China. It commits itself in building up a top notch sharing platform for Chinese software developers that is catered to their own interests and practical needs." 
 
 -
   level_partner: 1
@@ -207,6 +208,7 @@
   logo: http://pyconcn.qiniucdn.com/zoomquiet/stuff15/logo/dingdone_logo.png?imageView2/2/w/120
   link: http://www.dingdone.com/
   intro: "叮当Dingdone是一款移动应用自助生产运营平台，主要支持大众用户通过“叮当”来DIY开发APP，仅需分分钟，即可一键打包并同时生成适配于iOS、Android系统的Native原生应用程序和H5网页。与市场上基于HTML5打包的Web APP制作工具不同，依托于云技术的叮当提出了原生应用仓库的概念，通过丰富的风格、列表、功能模板以及强大且细粒度的属性参数，支撑APP的表现定义和样式变化。同时，它还能够为开发者提供H5 SDK和API，让用户可以嵌入不同数据和内容，十分便捷。“叮当”有别于简单粗暴的复制模式，已具备相当完善的设备功能和交互体验，用户可最大化发挥自定义空间，在云平台上创建、管理及生成一款别具一格的原生应用程序。利用“叮当”，即使是不懂编程和设计知识的普通人也能够信手拈来， APP制作者只需要通过“搭积木”的方式即可完成跨平台原生应用开发。"
+  intro_en: "Dingdone is a platform for mobile app DIV development. It mainly support developers to DIY native mobile apps or H5 apps rapidly for both IOS and Android platforms. Different from the H5 based tools in the market, dingdone is based on native libraries, and has rich styles, lists and templates. At the same time, it also has H5 SDK and API, and allow developers embed data and content easily. Different from simple copy and paste model, dingdone has complete UI experiences, and developers can do various customizations, and they can create and manage unique native apps on the cloud platform. Even people with no programming experiences can engage themselves in app building, just like building legos."
 
 
 -
@@ -215,6 +217,7 @@
   logo: http://pyconcn.qiniucdn.com/zoomquiet/stuff15/logo/seasun.png?imageView2/2/w/120
   link: http://www.xishanju.com/
   intro: '创建1995年初夏，在美丽的海滨小城珠海，西山居工作室孕育而生，一群西山居居士们十年如一日尅勊业业的奋斗。"创造快乐，传递快乐！"一直是西山居居士们的创作宗旨。西山居一领先的技术作为坚实的基础以独特的本土化产品为玩家提供时尚化服务。在未来，西山居仍以娱乐软件为主导产品,不断进行研发和市场活动，逐步发展成为国内最优秀的集制作、发行于一体的数字化互动娱乐公司。'
+  intro_en: Founded in the summer of 1995 at Zhuhai, Seasun Entertainment is focused on entertainment software. With its motto "Create happiness, Pass happiness!" and with its solid technology foundation, Seasun Entertainment tries to be the top digital entertainment company in China.
 
 
 #########################################
