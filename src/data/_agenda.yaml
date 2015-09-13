@@ -22,12 +22,13 @@ shanghai:
     - time: "09:15"
       topic: "开场"
       topic_en: "Opening"
-    - { time: "09:30", speaker: id_jiekong }
+    - { time: "09:30", speaker: id_ouyeel_sh }
     - { time: "10:00", speaker: id_yankaish }
     - { time: "10:45", speaker: id_liepin1sh }
     - { time: "11:30", speaker: id_shenweish }
+    - { time: "12:00", speaker: id_fb_jianmingwu }
   noon:
-    - time: "12:00"
+    - time: "12:10"
       topic: 午餐+合照
       topic_en: Lunch + Photo
   afternoon:
@@ -38,10 +39,11 @@ shanghai:
     - time: "15:30"
       topic: 茶歇
       topic_en: Intermission
-    - { time: "15:40", speaker: id_wangliqi }
+    - { time: "15:40", speaker: id_jiekong }
     - { time: "16:10", speaker: id_xuzhou }
-    - { time: "16:45", speaker: id_shell909090 }
-    - { time: "17:15", speaker: id_xiaokai }
+    - { time: "16:45", speaker: id_xiaokai }
+    - { time: "17:00", speaker: id_wangliqi }
+    - { time: "17:20", speaker: id_shell909090 }
   lightening_talks:
     - { time: "17:30", speaker: id_derek }
     - { time: "17:40", speaker: id_chendawei }
@@ -60,7 +62,7 @@ shanghai:
 ####################################################################
 guangzhou:
   address: UC 培训大厅
-  address_en: "TBD"
+  address_en: "..."
   venue: 广州市天河区黄埔大道西平云路163号广电平云广场B塔15楼
   venue_en: ...
   traffic: (地铁5号线 潭村站 步行1.9公里)
@@ -75,8 +77,8 @@ guangzhou:
     - time: "09:45"
       topic: "开场"
       topic_en: "Opening"
-    - { time: "10:00", speaker: id_shenweigz }
-    - { time: "10:45", speaker: id_laiyonghaogz }
+    - { time: "10:00", speaker: id_laiyonghaogz }
+    - { time: "10:45", speaker: id_shenweigz }
     - { time: "11:15", speaker: id_river }
   noon:
     - time: "12:00"
@@ -84,9 +86,10 @@ guangzhou:
       topic_en: Lunch + Photo
   afternoon:
     - { time: "13:30", speaker: id_liang2 }
-    - { time: "14:00", speaker: id_jiankongbaogz }
-    - { time: "14:40", speaker: id_JokerQyou }
-    - { time: "15:20", speaker: id_zuozhenjie }
+    - { time: "14:00", speaker: id_JokerQyou }
+    - { time: "14:30", speaker: id_gizwits }
+    - { time: "15:00", speaker: id_jiankongbaogz }
+    - { time: "15:30", speaker: id_zuozhenjie }
     - time: "16:00"
       topic: 茶歇
       topic_en: Intermission
@@ -124,31 +127,31 @@ beijing:
       topic_en: "Opening"
     - { time: "09:30", speaker: id_yankaibj }
     - { time: "10:00", speaker: id_wuke }
-    - { time: "10:20", speaker: id_liepin2bj }
-    - { time: "10:55", speaker: id_dinglaiqiang }
-    - { time: "11:30", speaker: id_liaoxinxi }
+    - { time: "10:20", speaker: id_meituan }
+    - { time: "11:00", speaker: id_liepin2bj }
+    - { time: "11:30", speaker: id_dinglaiqiang }
+    - { time: "12:00", speaker: id_fb_rosieli }
   noon:
-    - time: "12:00"
+    - time: "12:10"
       topic: 午餐+合照
       topic_en: Lunch + Photo
   afternoon:
-    - { time: "13:30", speaker: id_liang2 }
-    - { time: "14:00", speaker: id_liepin1bj }
-    - { time: "14:30", speaker: id_Bouriez }
-    - { time: "15:00", speaker: id_zhengk }
+    - { time: "13:30", speaker: id_liepin1bj }
+    - { time: "14:00", speaker: id_Bouriez }
+    - { time: "14:30", speaker: id_zhengk }
+    - { time: "15:00", speaker: id_liaoxinxi }
     - time: "15:30"
       topic: 茶歇 
       topic_en: Intermission
-    - { time: "15:40", speaker: id_xiutao }
-    - { time: "16:10", speaker: id_liuchang }
-    - { time: "17:10", speaker: id_linpan }
+    - { time: "15:40", speaker: id_liuchang }
+    - { time: "16:10", speaker: id_linpan }
+    - { time: "16:40", speaker: id_xiutao }
     - { time: "17:20", speaker: id_ZhiliWang }
   lightening_talks:
     - { time: "17:30", speaker: id_chifeng }
     - { time: "17:40", speaker: id_zhongww }
     - { time: "17:45", speaker: id_yuzhanyong }
     - { time: "17:50", speaker: id_huangjin }
-
   cancel_talks:
     - { time: "(ー`´ー)", speaker: id_dujun }
 
@@ -182,13 +185,12 @@ hangzhou:
     - time: "13:20"
       topic: PyCon大会及活动组织方介绍
       topic_en: PyCon大会及活动组织方介绍
-    - { time: "13:30 ~ 14:10", speaker: id_nonehz }
-    - { time: "14:20 ~ 15:00", speaker: id_nonehz }
-    - time: "15:00"
+    - { time: "14:00 ~ 15:00", speaker: hz_zhangyu }
+    - { time: "15:00 ~ 16:00", speaker: city_hangzhou }
+    - time: "16:00"
       topic: 茶歇
       topic_en: Intermission
-    - { time: "15:20", speaker: id_nonehz }
-    - { time: "16:10", speaker: id_nonehz }
+    - { time: "16:20", speaker: id_nonehz }
     - time: "17:00" 
       topic: 合影结束
 
