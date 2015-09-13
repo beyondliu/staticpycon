@@ -5,10 +5,8 @@ id_liang2:
   intro: 目前就讀台灣大學生醫電資碩士，研究領域為癌症基因調控網路分析。平時經常參與台灣開源社群如 Taipei.py 與 MLDM Monday (Taiwan R User) 活動，於 PyCon APAC 2014、2015 擔任工作人員與講者，同時亦為 PyCon TW 2016 議程組長。去年於北京 Microsoft Asia Research (MSRA) 實習，現於台灣電子商務公司 Pinkoi 實習。
     - 個人網站：'http://liang2.tw'
     - @ccwang002
-  intro_en: currently a Biomedical and Bioinformatics graduate student in National Taiwan University, doing research in cancer genetic control network analysis. A frequent member of Taipei.py, and MLDM Monday (Taiwan R User). 
   topic:
     title: "用 jieba 处理中文以及台湾的 Py 社团"
-    title_en: "How to process Chinese using jieba and the python communities in Taiwan"
     preview: "首先分享在 Pinkoi 實習的經驗，如何使用 jieba 與改善 Elasticsearch 中文商品搜尋體驗，同時分享調整 jieba 斷詞於搜尋使用的一些經驗。再進一步透過 word2vec 自動找出商品間的關係，利用它語意上的特徵，完成一些如相似商品推薦等進階的搜尋功能。剩下的時間將會介紹現階段台灣 Python 社群發展以及宣傳明年活動。"
     preview_en: "Share some experiences in using Pinkoi. How to use jieba, and how to improve the Elasticsearch user experiences when searching for Chinese commodities, how to find correlation between commodities using word2vec, how to do recommendation. Introduce the Python communities in Taiwan."
     slide: #
@@ -52,12 +50,12 @@ id_yankaish:
             Docker Compose
         Python 帮助DaoCloud快速迭代
     preview_en: What is DaoCloud? Why we use python to build it?
-        DaoCloud's Python technology stack. How to use various Python technologies
-            API
-            Celery
-            Docker Client
-            Docker Compose
-        Python helps DaoCloud do rapid iterations
+            DaoCloud s Python technology stack. How to use various Python technologies
+                API
+                Celery
+                Docker Client
+                Docker Compose
+            Python helps DaoCloud do rapid iterations
     slide: #
 
 id_shenweish:
@@ -82,7 +80,7 @@ id_xuzhou:
   city_en: Shanghai
   avatar: http://pyconcn.qiniudn.com/zoomquiet/stuff15/id/id_xuzhou.png?imageView2/2/h/80
   intro: 现任职于Demonware，自动化工程师，致力于 infrastructure 的自动化管理，软件的持续集成和发布。
-  intro_en: now employed by Demonware, focused on infrastructure management automation, continuous integration.
+  intro_en: now employed by Demonware, focused on infrastructure management automation, continuous integration....
   topic:
     title: "TheConsortium: 基于状态的数据中心自动化管理工具"
     title_en: "TheConsortium: a state based automation tool for data center management"
@@ -97,12 +95,12 @@ id_dinglaiqiangsh:
   city_en: Shanghai
   avatar: http://pyconcn.qiniudn.com/zoomquiet/stuff15/id/id_dinglaiqiang.JPG?imageView2/2/h/80
   intro:  从业十年, Splunk(美国纳斯达克第一家纯大数据的上市公司)在中国实验室的Tech Lead, 负责大数据平台相关的ETL和数据可视化相关的工作. 技术兴趣广泛. 擅长C++/Python与JS.
-  intro_en: Tech lead of Splunk, in charge of ETL and data visualization of big data platform.
+  intro_en: Tech lead of Splunk, in charge of ETL and data visualization of big data platform....
   topic:
     title: "使用Python进行高效大数据分析处理与可视化"
     title_en: "Big data analysis and visualization with Python"
     preview: 大数据处理中;70%左右的时间我们在做处理准备(加载/抽取/清洗/转换/分组/ 合并等); 进行商务分析的过程中(以及之后);又会花相当多的时间做数据可视化的工作. 这个主题介绍了如何使用Python选择高效的数据处理分析与可视化.内容结合一个实际例子覆盖了如何使用Pandas进行高效数据ETL; Pandas的最新特性(Query/ 去GIL等); BokeH如何进行高效数据可视化; Blaze与Spark结合进行更大规模的分布式数据处理等.
-    preview_en: in big data processing, 70% of the time we are doing data preparation (loading/extraction/cleansing/conversion/classification/integration). After business analysis, a lot of time is needed to do data visualization. It will talk about how to do data ETL with Pandas, the new feature of Pandas(Query/removing of GIL), how to do data visualization with BokeH, how to use Blaze and Spark to do large scale distributed data processing
+    preview_en:  in big data processing, 70% of the time we are doing data preparation (loading/extraction/cleansing/conversion/classification/integration). After business analysis, a lot of time is needed to do data visualization. It will talk about how to do data ETL with Pandas, the new feature of Pandas(Query/removing of GIL), how to do data visualization with BokeH, how to use Blaze and Spark to do large scale distributed data processing
     slide: #
 
 id_wangliqi:
@@ -112,7 +110,7 @@ id_wangliqi:
   city_en: Shanghai
   avatar: http://pyconcn.qiniudn.com/zoomquiet/stuff15/id/id_wangliqi.jpg?imageView2/2/h/80
   intro:  上海仪酷智能科技有限公司产品经理，VIRobotics创始人。在机器人应用开发、Linux、Python、NI图形化软件开发方面有着丰富的经验。
-  intro_en: Founder of VIRobotics, has rich experiences in robots, Linux, Python, NI.
+  intro_en: Founder of VIRobotics, has rich experiences in robots, Linux, Python, NI....
   topic:
     title: "图形化python—快速构建机器人系统"
     title_en: "Graphic Python -- quick construction of robotic system"
@@ -120,8 +118,7 @@ id_wangliqi:
         2.介绍利用LabVIEW调用Python模块，并开发机器人应用程序的方法。
         3.介绍利用VIRobotics软件产品将NI LabVIEW与Python交叉编译的方式。
         4.介绍利用开发包添加Python模块的方式。
-    preview_en: 
-        1. Flagship of product: Python robot NAO, toolkit based on NI LabVIEW
+    preview_en: 1. Flagship of product; Python robot NAO, toolkit based on NI LabVIEW
         2. Python modules used by LabVIEW, how to write robotic apps
         3. How to add python modules to the toolkit
     slide: #
@@ -133,7 +130,7 @@ id_chenhaibo:
   city_en: Shanghai
   avatar: http://pyconcn.qiniudn.com/zoomquiet/stuff15/id/sh_chenghaibo.jpg?imageView2/2/h/80
   intro: 在Python与桌面软件编程上，有比较多的涉猎
-  intro_en: experienced in python desktop programming
+  intro_en: experienced in python desktop programming...
   topic:
     title: "Python&GUI"
     title_en: "Python&GUI"
@@ -152,7 +149,7 @@ id_chenhaibo:
         How to draw interface?
         The imagination powered by GUI
         How to make your first desktop software?
-    slide: #
+    slide: http://7bv7nx.com1.z0.glb.clouddn.com/Pycon-2015-Hepo.key
 
 id_xiaokai:
   name: 肖凯
@@ -161,10 +158,10 @@ id_xiaokai:
   city_en: Shanghai
   avatar: http://pyconcn.qiniudn.com/zoomquiet/stuff14/cpug-logo-188x188.png?imageView2/2/h/80
   intro:  1号店商务智能部数据挖掘工程师;喜欢折腾点数据，喜欢用不同的工具和方法来折腾数据，当然也包括python;
-  intro_en: data mining engineer; like using all kinds of tools to massage data, including python
+  intro_en: data mining engineer; like using all kinds of tools to massage data, including python...
   topic:
     title: "python中的数据工具箱"
-    title_en: "the toolbox of python"
+    title_en: "the toolbox for data of python"
     preview: 介绍近年来python社区涌现的一些数据分析工具，包括numpy/scipy/pandas/sklearn/theano等等。还会介绍这些工具箱在数据分析工作流程中的位置，以及和其它类似工具的比较。
     preview_en: introduction to the new data analysis tools in the python community, including numpy/scipy/pandas/sklearn/theano and etc, their positions in the data processing workflow, and comparison to other tools
     slide: #
@@ -176,12 +173,12 @@ id_shell909090:
   city_en: Shanghai
   avatar: http://pyconcn.qiniudn.com/zoomquiet/stuff14/id/Shell909090-lighting.png?imageView2/2/h/80
   intro:  现任七牛工程师,python/c程序员 @Shell909090
-  intro_en: currently engineer at Qiniu
+  intro_en: currently engineer at Qiniu...
   topic:
     title: "一种远程执行代码的方法"
     title_en: "A way to execute code remotely"
     preview: 10分钟的小演讲，介绍一种将任何代码扔去远程执行的小技巧。
-    preview_en: a short 10 mins speech, introducing a tip to execute any code remotely
+    preview_en:  short 10 mins speech, introducing a tip to execute any code remotely
     slide: #
 
 id_liepin1sh:
@@ -201,28 +198,27 @@ id_liepin1sh:
       3. 职业发展：Python人才职业发展的路径分析，在不同行业间的流动趋势和方向
       4. 薪资水平：不同行业、地区、职位、工作年限的Python人才薪水分析，与其他技能人才的薪资水平对比
       5. 人才画像：Python人才的年龄段、教育背景、所学专业情况，以及与职位、收入水平的关系
-    preview_en: 
-      0. The technology and mathematical methods used in our data analysis for professional development
-      1. Distribution of professionals: the distribution of pythoners in different industries, geographies, and positions
-      2. Needs of enterprises: the demand of pythoners in the job market and how it changes
-      3. Professional development: the analysis of the career path of pythoners, how they move in different industries
-      4. Salary levels: the different salary levels of pythoners in different industries, geographies, positions, and age groups
-      5. Portrait of python professionals: the age, education background, majors of pythoners and the relation with positions and salary levels
+    preview_en: 0. The technology and mathematical methods used in our data analysis for professional development
+      1. Distribution of professionals/ the distribution of pythoners in different industries, geographies, and positions
+      2. Needs of enterprises/ the demand of pythoners in the job market and how it changes
+      3. Professional development/ the analysis of the career path of pythoners, how they move in different industries
+      4. Salary levels/ the different salary levels of pythoners in different industries, geographies, positions, and age groups
+      5. Portrait of python professionals/ the age, education background, majors of pythoners and the relation with positions and salary levels
     slide: #
 
 id_jiankongbaosh:
-  name: 高驰涛(Neeke)
+  name: 刘国强 (Bruce Liu)
   city_shanghai: 1
   city: 上海
   city_en: Shanghai
-  avatar: http://pyconcn.qiniudn.com/zoomquiet/stuff15/id/jiankongbao_neeke.jpg?imageView2/2/h/80
-  intro:  云智慧高级架构师，是PHP开发组成员，同时也是PECL/SeasLog的作者.10年研发管理经验，早期从事大规模企业信息化研发架构，09年涉足互联网数字营销领域并深入研究架构与性能优化。2014年加入云智慧，致力于APM产品的架构与研发。崇尚敏捷，高效，GettingReal。
-  intro_en: senior architect, author of PECL/SeasLog. 
+  avatar: http://pyconcn.qiniudn.com/zoomquiet/stuff15/id/jiankongbao_liu.jpg?imageView2/2/h/80
+  intro: 云智慧技术中心(Technical Center)副总裁，全面负责公司的售前、售后、技术咨询和培训方面的工作。在加入云智慧之前，他拥有超过18年的IT行业研发，IT管理，服务器和桌面虚拟架构，数据库和云计算专家，企业级方案专家。历任CA大中华区CTO，售前技术总监。Citrix中国区首席专家顾问，虚拟化系统工程师。在银行，电信，邮政和政府行业服务多年，是资深的行业IT、云计算和应用性能解决方案专家。
+  intro_en: senior architect, author of PECL/SeasLog. ...
   topic:
-    title: "让Python应用快如闪电"
+    title: "Python应用的性能优化实践"
     title_en: "Let python software be lightning fast"
-    preview: python应用性能管理实践
-    preview_en: the practical guide to python performance tuning
+    preview: 如何能够追踪和定位Python应用的程序代码性能？使用云智慧的应用性能平台能够快速定位和发现Python应用的性能瓶颈，并找到有问题的代码。使用云智慧的APM ，您可以深入到运行在实际生产环境中的Python应用程序，从交易级了解Python程序堆栈跟踪诊断性能瓶颈。可以自动检测商业交易，了解响应时间、每分钟调用时间，深入到代码级的诊断显示完整的调用图和执行代码，同时了解到Python调用SQL语句的执行性能。在本次演讲中将我们将分析PythonCode如何插入Python解释器，并采集Python代码堆栈、资源利用情况、代码的错误异常数据等，最终让开发人员和业务人员能够在最短时间内发现问题，降低对业务的影响。
+    preview_en:  the practical guide to python performance tuning...
     slide: #
 
 id_jiekong:
@@ -232,7 +228,7 @@ id_jiekong:
   city_en: Shanghai
   avatar: http://pyconcn.qiniudn.com/zoomquiet/stuff15/id/ali_jirkong.png?imageView2/2/h/80
   intro:  09年加入阿里，并一直担任ACE的技术专家角色，负责了ACE底层的架构与开发工作，也是Python的忠实用户。
-  intro_en: ACE expert
+  intro_en: ACE expert...
   topic:
     title: "ACE的Python环境的使用和架构设计实践"
     title_en: "The practical guide to use of ACE in python environment and architecture design"
@@ -247,12 +243,12 @@ id_derek:
   city_en: Shanghai
   avatar: http://pyconcn.qiniudn.com/zoomquiet/stuff14/cpug-logo-188x188.png?imageView2/2/h/80
   intro:  來自 Linux Deepin, 目前擔任開源社區拓展, C, BASH, zfs, systemd 愛好者
-  intro_en: from Linux Deepin, currently in charge of open source community outreach, hobbist of C, BASH, zfs, systemd
+  intro_en: from Linux Deepin, currently in charge of open source community outreach, hobbist of C, BASH, zfs, systemd...
   topic:
     title: "py + gi - 高效 C 庫整合方案"
     title_en: "py + gi - efficient C library integration"
     preview: "要從 Python 使用 C libraries, 通常需要在中間做上一層 binding, 讓 Python runtime 與 target C libraries 能互通, 維護費力易出錯. 經由導入 gobject introspection, 配合 type information, 讓 Python + C 的組合產能最大化!"
-    preview_en: "Normally to use c libraries in Python, you need to do a binding and let python runtime communicate with target C libraries. This approach is error-prone and hard for maintenance. By using gobject introspection together with type information, we can optimize the power of Python + C!"
+    preview_en: Normally to use c libraries in Python, you need to do a binding and let python runtime communicate with target C libraries. This approach is error-prone and hard for maintenance. By using gobject introspection together with type information, we can optimize the power of Python + C!
     slide: #
 
 id_chendawei:
@@ -262,12 +258,12 @@ id_chendawei:
   city_en: Shanghai
   avatar: http://pyconcn.qiniudn.com/zoomquiet/stuff14/cpug-logo-188x188.png?imageView2/2/h/80
   intro:  前 17zuoye.com 数据工程师，业务和开源代码双线开发模式至今已持续三年，并有 Luiti 和 Statlysis 等 42 个开源项目。熟悉的体系经验包括 基于Hadoop + Python + MongoDB 的数据处理，Ruby on Rails 全栈式开发，单页前端应用，Python 文本挖掘
-  intro_en: former 17zuoye.com data engineer, has been doing parallel development in commerical software and open source software for the past 3 years, owner of 42 open source projects including Luiti and Statlysis. Has experiences in Hadoop + Python + MongoDB data analysis, RoR full stack development, Single Page Application, python document mining.
+  intro_en: former 17zuoye.com data engineer, has been doing parallel development in commerical software and open source software for the past 3 years, owner of 42 open source projects including Luiti and Statlysis. Has experiences in Hadoop + Python + MongoDB data analysis, RoR full stack development, Single Page Application, python document mining....
   topic:
     title: "使用 Luiti 来构建数据仓库"
     title_en: "Build data storage with Luiti"
     preview: 在数据量级上升到必须用 Hadoop 去处理的时候，一个易用且高效的离线任务管理框架必不可少。Luiti 正是这样从半年多实践中诞生的务实派开源作品，它是基于 Spotify 开源的 Luigi 模块之上构建起来的，可以像使用 Flask 和 Rails 等 Web 框架一样迅速搭建并运转起整个大型数据仓库。更多请访问 http://luiti.github.io/chinese/index.html
-    preview_en: When the magnitude of data is large enough that you need to use Hadoop, a easy to use and efficient offline task management framework become necessary. Luiti started from this demand. It is based on Luigi module open sourced from Spotify, and it can be used like Flask or RoR frameworks to build up data storage quickly. Please visit http://luiti.github.io/index.html
+    preview_en:  When the magnitude of data is large enough that you need to use Hadoop, a easy to use and efficient offline task management framework become necessary. Luiti started from this demand. It is based on Luigi module open sourced from Spotify, and it can be used like Flask or RoR frameworks to build up data storage quickly. Please visit http://luiti.github.io/index.html
     slide: #
 
 id_ouyeel_sh:
@@ -284,6 +280,22 @@ id_ouyeel_sh:
     preview: 一个简单的小工具，一秒五行写出pythonic的api接口，自动生成接口文档，js调用代码，ios客户端调用代码，ng调用代码...
     preview_en: ...
     slide: #
+
+id_fb_jianmingwu:
+  name: Jianming Wu (吴建明)
+  city_shanghai: 1
+  city: 上海
+  city_en: Shanghai
+  avatar: http://pyconcn.qiniudn.com/zoomquiet/stuff15/id/fb_jianmingwu.jpg?imageView2/2/h/80
+  intro:  Software Engineer at Facebook
+  intro_en: Software Engineer at Facebook
+  topic:
+    title: "Facebook and Python"
+    title_en: "Facebook and Python"
+    preview: (英文演讲)
+    preview_en: ...
+    slide: #
+
 ####################################################################
 #   广州
 #     ____ _____
@@ -301,14 +313,13 @@ id_shenweigz:
   city_en: Guangzhou
   avatar: http://pyconcn.qiniucdn.com/2012/static/images/speakers/shenwai.jpg?imageView2/2/h/80
   intro:  资深 python 开发者，高效能服务器 eurasia 的作者。湖州迅普信息技术有限公司创始人，广州遛宝计算机技术有限公司联合创始人、技术总监。
-  intro_en: A senior python developer, author of eurasia. 
+  intro_en: A senior python developer, author of eurasia
   topic:
     title: "再说点儿有趣儿的事儿"
     title_en: "Let's talk about something fun"
     preview: TDB
-    preview_en: ...
+    preview_en: TDB
     slide: #
-
 
 id_zuozhenjie:
   name: 卓振杰
@@ -317,7 +328,7 @@ id_zuozhenjie:
   city_en: Guangzhou
   avatar: http://pyconcn.qiniudn.com/zoomquiet/stuff15/id/id_zuozhenjie.png?imageView2/2/h/80
   intro:  ottozhuo，腾讯微信运营开发工程师
-  intro_en: engineer from Tecent WeChat
+  intro_en: engineer from Tecent WeChat...
   topic:
     title: "柔性数据接口的设计与实现"
     title_en: "design and implementation of soft data inteface"
@@ -332,7 +343,7 @@ id_JokerQyou:
   city_en: Guangzhou
   avatar: http://pyconcn.qiniucdn.com/zoomquiet/stuff15/id/gz_JokerQyou.png?imageView2/2/h/80
   intro:  在 易开发 被誉为多栖全栈开发工程师，根据开发需要游走于系统后端、多平台桌面、web前端，负责公司 消息系统前后端 以及 端服务的开发，业余爱好折腾开源软件。
-  intro_en: full stack developer from easydo
+  intro_en: full stack developer from easydo...
   topic:
     title: "使用MQTT打造类Slack的实时消息服务"
     title_en: "Use MQTT to build Slack like instant messaging system"
@@ -347,7 +358,7 @@ id_river:
   city_en: Guangzhou
   avatar: http://pyconcn.qiniudn.com/zoomquiet/stuff15/id/bj_river4.png?imageView2/2/h/80
   intro:  QPython作者， 目前与朋友合伙创业做企业协作应用，前Zynga任高级系统研发工程师，前绿盟科技产品经理，前新浪邮件系统开发工程师。我喜欢历史，旅行，电影。微信号/river4
-  intro_en: Author of QPython. former Zynga senior system engineer
+  intro_en:  Author of QPython. former Zynga senior system engineer...
   topic:
     title: "用 QPython 极速开发 安卓 App"
     title_en: "How to do rapid android app development with QPython"
@@ -368,7 +379,7 @@ id_laiyonghaogz:
   city_en: Guangzhou
   avatar: http://pyconcn.qiniudn.com/images/speakers/laiyonghao.png?imageMogr2/crop/!200x200a40a10|imageView2/2/h/80
   intro: 从业10年，创立广州齐昌网络科技有限公司，任总经理，主营技术咨询与开发外包。曾在网易（广州）等公司从事端游、页游的开发超过7年，熟悉网游前后端技术，近几年工作重心已转移到 Web 相关领域。对Python和C++编程语言有较多积累，熟悉它们的混合编程，长期坚持撰写技术博客，已积累了超过250万的浏览量，并合著有《编写高质量代码：改善Python程序的91个建议》一书。
-  intro_en: Founder of Qichang Inc. Mr. Lai is a frequent speaker in PyCon China. He has deep knowledge of Python programming and related technologies. In addition to a popular tech blog, he is a co-writer of a published book "Writing solid Python code: 91 suggestions to improve Python program"
+  intro_en: Founder of Qichang Inc. Mr. Lai is a frequent speaker in PyCon China. He has deep knowledge of Python programming and related technologies. In addition to a popular tech blog, he is a co-writer of a published book "Writing solid Python code 91 suggestions to improve Python program...
   topic:
     title: "用Cython封装C++代码为Python模块的一点经验"
     title_en: "Experiences of using Cython to wrap up C++ code as Python modules"
@@ -377,8 +388,7 @@ id_laiyonghaogz:
         3、封装C++代码与封装C代码相比难在哪里？
         4、封装C++代码的最佳实践是什么？
         5、以上问题，在这里可以找到答案。
-    preview_en: 
-        1. What is Cython, what's its use?
+    preview_en: 1. What is Cython, what s its use?
         2. The advantages of Cython compared to similar technologies
         3. The difficult of importing C++ libraries compared to C libraries
         4. The best practices of importing C++ libraries
@@ -392,7 +402,7 @@ id_jeffgz:
   city_en: Guangzhou
   avatar: http://pyconcn.qiniudn.com/zoomquiet/stuff14/cpug-logo-188x188.png?imageView2/2/h/80
   intro:  厚建广州创始人兼副总;珠三角技术沙龙常务组委. 长年活跃在一线的python码农.
-  intro_en: staff of Tech Party of Pearl River Delta
+  intro_en: staff of Tech Party of Pearl River Delta...
   topic:
     title: "基于Tornado打造通用长链接代理服务器"
     title_en: "Using Tornado to build a long-lived connection proxy"
@@ -401,20 +411,19 @@ id_jeffgz:
     slide: #
 
 id_jiankongbaogz:
-  name: 高驰涛(Neeke)
+  name: 刘国强（Bruce Liu）
   city_guangzhou: 1
   city: 广州
   city_en: Guangzhou
-  avatar: http://pyconcn.qiniudn.com/zoomquiet/stuff15/id/jiankongbao_neeke.jpg?imageView2/2/h/80
-  intro:  云智慧高级架构师，是PHP开发组成员，同时也是PECL/SeasLog的作者.10年研发管理经验，早期从事大规模企业信息化研发架构，09年涉足互联网数字营销领域并深入研究架构与性能优化。2014年加入云智慧，致力于APM产品的架构与研发。崇尚敏捷，高效，GettingReal。
-  intro_en: senior architect, author of PECL/SeasLog. 
+  avatar: http://pyconcn.qiniudn.com/zoomquiet/stuff14/cpug-logo-188x188.png?imageView2/2/h/80
+  intro: 云智慧技术中心(Technical Center)副总裁，全面负责公司的售前、售后、技术咨询和培训方面的工作。在加入云智慧之前，他拥有超过18年的IT行业研发，IT管理，服务器和桌面虚拟架构，数据库和云计算专家，企业级方案专家。历任CA大中华区CTO，售前技术总监。Citrix中国区首席专家顾问，虚拟化系统工程师。在银行，电信，邮政和政府行业服务多年，是资深的行业IT、云计算和应用性能解决方案专家。
+  intro_en: senior architect, author of PECL/SeasLog...
   topic:
-    title: "让Python应用快如闪电-python应用性能管理实践"
-    title_en: "Let python software be lightning fast"
-    preview: ...
+    title: "Python应用的性能优化实践"
+    title_en: "Python application performance optimization practice"
+    preview: 如何能够追踪和定位Python应用的程序代码性能？使用云智慧的应用性能平台能够快速定位和发现Python应用的性能瓶颈，并找到有问题的代码。使用云智慧的APM ，您可以深入到运行在实际生产环境中的Python应用程序，从交易级了解Python程序堆栈跟踪诊断性能瓶颈。可以自动检测商业交易，了解响应时间、每分钟调用时间，深入到代码级的诊断显示完整的调用图和执行代码，同时了解到Python调用SQL语句的执行性能。在本次演讲中将我们将分析PythonCode如何插入Python解释器，并采集Python代码堆栈、资源利用情况、代码的错误异常数据等，最终让开发人员和业务人员能够在最短时间内发现问题，降低对业务的影响。
     preview_en: ...
     slide: #
-
 
 id_yinhm:
   name: 殷海明
@@ -431,20 +440,6 @@ id_yinhm:
     preview_en: sequential data analysis, and optimized investment combination
     slide: #
 
-id_ouyeel_gz:
-  name: 孔令开
-  city_guangzhou: 1
-  city: 广州
-  city_en: Guangzhou
-  avatar: http://pyconcn.qiniudn.com/zoomquiet/stuff14/cpug-logo-188x188.png?imageView2/2/h/80
-  intro:  欧冶云商...
-  intro_en: Pythoneer...
-  topic:
-    title: "简单实用的自制Rest API工具"
-    title_en: "?"
-    preview: 一个简单的小工具，一秒五行写出pythonic的api接口，自动生成接口文档，js调用代码，ios客户端调用代码，ng调用代码...
-    preview_en: ...
-    slide: #
 
 id_gizwits:
   name: 郑和柳 (Robert Zheng)
@@ -478,7 +473,7 @@ id_yankaibj:
   city_en: Beijing
   avatar: http://pyconcn.qiniucdn.com/zoomquiet/stuff15/id/DaoCloud-yankai.JPG?imageView2/2/h/80
   intro:  DaoCloud 联合创始人，首席架构师;圈内著名极客，在大学各类编程比赛中获奖无数，人称“开叔”。曾任职于 EMC 中国研究院，中国第一个 Cloud Foundry 云平台的构建者，在云平台、分布式系统和移动应用开发方面颇有建树。其撰写的相关技术博客拥有很高的人气，并受邀在 CSDN 等专业杂志及网站发表。加入 EMC 之前，颜开曾在盛大游戏负责游戏计算平台的开发及运维，并在当年主导了游戏平台的 Hadoop 大数据分析平台的构建。颜开于 2010 年在南京大学获得计算机专业本科学位。
-  intro_en: Co-founder and Chief Architect of DaoCloud. Has experiences in cloud platform, distributed system, and mobile app development. Famous blogger.
+  intro_en: Co-founder and Chief Architect of DaoCloud. Has experiences in cloud platform, distributed system, and mobile app development. Famous blogger....
   topic:
     title: "解决迭代陷阱，Python In Docker"
     title_en: "from virtualenv to Docker"
@@ -522,8 +517,8 @@ id_ZhiliWang:
   city: 北京
   city_en: Beijing
   avatar: http://pyconcn.qiniudn.com/zoomquiet/stuff15/id/id_ZhiliWang.jpg?imageView2/2/h/80
-  intro:  刚入行的python 爱好者，爱运行，哎新奇事物，现在比较蓝海讯通公司任python支持。
-  intro_en: A newbie in Python
+  intro:  Python 粉，爱运动，爱新奇事物，就职 OneAPM（北京蓝海讯通公司），Python 应用性能分析师。
+  intro_en: A newbie in Python...
   topic:
     title: "如何提高研发效率"
     title_en: "How to program effectively"
@@ -553,7 +548,7 @@ id_huangjin:
   city_en: Beijing
   avatar: http://pyconcn.qiniudn.com/zoomquiet/stuff15/id/id_huangjin.png?imageView2/2/h/80
   intro:  FreeWheel资深devops一枚，做得最多的是监控和部署发布。Pythonist，目前正在从Golang挖墙脚，有点痴迷。
-  intro_en: Senior Devops from FreeWheel. Experienced in monitoring and deployment. Pythonist, currently fantasized by Golang.
+  intro_en: Senior Devops from FreeWheel. Experienced in monitoring and deployment. Pythonist, currently fantasized by Golang....
   topic:
     title: "基于Fabric的自动化实践"
     title_en: "Auto deployment based on Fabric"
@@ -568,7 +563,7 @@ id_dinglaiqiang:
   city_en: Beijing
   avatar: http://pyconcn.qiniudn.com/zoomquiet/stuff15/id/id_dinglaiqiang.JPG?imageView2/2/h/80
   intro:  从业十年;Splunk(美国纳斯达克第一家纯大数据的上市公司)在中国实验室的Tech Lead/ 负责大数据平台相关的ETL和数据可视化相关的工作. 技术兴趣广泛. 擅长C++/Python与JS.
-  intro_en: Tech lead of Splunk, in charge of ETL and data visualization of big data platform.
+  intro_en: Tech lead of Splunk, in charge of ETL and data visualization of big data platform....
   topic:
     title: "使用Python进行高效函数式编程"
     title_en: "Effective python functional programming: techniques, tools and practices"
@@ -585,7 +580,7 @@ id_liaoxinxi:
   city_en: Beijing
   avatar: http://pyconcn.qiniudn.com/zoomquiet/stuff14/cpug-logo-188x188.png?imageView2/2/h/80
   intro:  绿盟科技安全研究员，致力于代码审计，安全开发，网名：xxlegend
-  intro_en: Pythoneer, focused on code review, software security
+  intro_en: Pythoneer, focused on code review, software security...
   topic:
     title: "python安全编码"
     title_en: "How to program secure software in python"
@@ -620,7 +615,7 @@ id_wuke:
   city_en: Beijing
   avatar: http://pyconcn.qiniudn.com/zoomquiet/stuff15/id/coding_wuke.jpg?imageView2/2/h/80
   intro:  Coding.net 技术顾问;Linux 拥趸，云计算的追随者。曾任职于HP软件部咨询顾问，负责HP监控，自动化工具及私有云解决方案咨询和落地。在云平台，自动化运维、web应用开发和项目管理方面颇有建树。目前在 Coding.net 主要负责撰写各类技术文档和定制技术方案，管理和推动相关的技术落地，包括监控、开发环境和容器化部署。
-  intro_en: Consultant of Coding.net. Fan of Linux and cloud computing. Former consultant of the software dept of HP, working on HP monitoring, automation tools, private cloud solutions. Experienced in cloud platform, DevOps, web app development and project management.
+  intro_en: Consultant of Coding.net. Fan of Linux and cloud computing. Former consultant of the software dept of HP, working on HP monitoring, automation tools, private cloud solutions. Experienced in cloud platform, DevOps, web app development and project management....
   topic:
     title: "用在线的方式完成 Flask 开发"
     title_en: "Flask app development with web IDE"
@@ -639,9 +634,9 @@ id_liepin1bj:
   topic:
     title: "用Python实现Hadoop任务调度管理"
     title_en: "Python Rules Hadoop"
-    preview: 如何解决大数据任务的依赖、定时、失败重试问题？三大开源调度系统oozie、azkaban、luigi 各有所长。但是它们主要面向开发人员，使用门槛较高。针对数据分析场景，我们用python开发了一套可视化、轻量级、易用的大数据任务管理系统，让分析师也能够轻松提交和管理任务，玩转大数据。
+    preview: 如何解决大数据任务的依赖、定时、失败重试问题？三大开源调度系统oozie、azkaban、luigi各有所长。但是它们主要面向开发人员，使用门槛较高。针对数据分析场景，我们用python开发了一套可视化、轻量级、易用的大数据任务管理系统，让分析师也能够轻松提交和管理任务，玩转大数据。
     preview_en: How to resolve dependence, timing, and retries after failure in the big data task processing?  The three open source scheduling system oozie, azkaban、luigi  all have its pros and  cons. But their main target is the developers, thus can be hard for non-developers. Using Python, we developed a visual, light-weight and easy to use big data task management system that can be used by analysts. 
-    slide: 
+    slide: #
 
 id_liepin2bj:
   name: 石晶+单艺
@@ -660,13 +655,12 @@ id_liepin2bj:
       3. 职业发展：Python人才职业发展的路径分析，在不同行业间的流动趋势和方向
       4. 薪资水平：不同行业、地区、职位、工作年限的Python人才薪水分析，与其他技能人才的薪资水平对比
       5. 人才画像：Python人才的年龄段、教育背景、所学专业情况，以及与职位、收入水平的关系
-    preview_en: 
-      0. The technology and mathematical methods used in our data analysis for professional development
-      1. Distribution of professionals: the distribution of pythoners in different industries, geographies, and positions
-      2. Needs of enterprises: the demand of pythoners in the job market and how it changes
-      3. Professional development: the analysis of the career path of pythoners, how they move in different industries
-      4. Salary levels: the different salary levels of pythoners in different industries, geographies, positions, and age groups
-      5. Portrait of python professionals: the age, education background, majors of pythoners and the relation with positions and salary levels
+    preview_en: 0. The technology and mathematical methods used in our data analysis for professional development
+      1. Distribution of professionals： the distribution of pythoners in different industries, geographies, and positions
+      2. Needs of enterprises： the demand of pythoners in the job market and how it changes
+      3. Professional development： the analysis of the career path of pythoners, how they move in different industries
+      4. Salary levels： the different salary levels of pythoners in different industries, geographies, positions, and age groups
+      5. Portrait of python professionals： the age, education background, majors of pythoners and the relation with positions and salary levels
     slide: #
 
 id_zhengk:
@@ -686,7 +680,7 @@ id_zhengk:
         3、经常会碰到的网络请求模拟、需要文件读写模拟、数据库（比如：MySQL、MongoDB 等）各种需要预置条件的
         4、其它能总结出来的 Mock 或 Fake 的处理
         5、肯能还有一些经常用到的、需要的、常用的工具或类库等等
-    preview_en: The various scenarios of unit testing in python projects, such as:
+    preview_en: The various scenarios of unit testing in python projects, such as/
         1. Hello World examples
         2. testing frameworks used in web frameworks such as Django 
         3. mocking network request, file read/write, database
@@ -701,7 +695,7 @@ id_zhongww:
   city_en: Beijing
   avatar: http://pyconcn.qiniudn.com/zoomquiet/stuff14/cpug-logo-188x188.png?imageView2/2/h/80
   intro:  拉拉公园后端工程师。做过JAVA、JS项目，目前做Python后端。
-  intro_en: Backend developer, Java, JS, currently Python backend developer
+  intro_en: Backend developer, Java, JS, currently Python backend developer...
   topic:
     title: "Python在移动社交平台中的应用"
     title_en: "The application of Python in mobile social platforms"
@@ -709,12 +703,11 @@ id_zhongww:
           1、移动社交平台及其架构介绍（简介）
           1）平台的主要架构（全球化的考虑）
           2）各部分功能简介（使用到了哪些组件）
-
           2、Python及其类库在平台中的应用（主要介绍，大家一起交流）
           1）Python的使用（Python的优缺点、Python的适用性）
           2）相关类库的使用（PIL等）
           3）使用过程的心得交流
-    preview_en: touch on the following:
+    preview_en: touch on the following/
           1. mobile social platform and its architecture (brief introduction)
           1) the architecture of the platform (internationalization)
           2) components
@@ -752,7 +745,7 @@ id_liuchang:
   city_en: Beijing
   avatar: http://pyconcn.qiniudn.com/zoomquiet/stuff14/cpug-logo-188x188.png?imageView2/2/h/80
   intro: 曾就职于微软与阿里云，现在Genedock创业，语言爱好者
-  intro_en: former employee of microsoft and aliyun, now at a startup company Genedock. Hobbist of programming languages
+  intro_en:  former employee of microsoft and aliyun, now at a startup company Genedock. Hobbist of programming languages...
   topic:
     title: "python的module机制与最佳实践"
     title_en: "The mechanism of python modules and best practices"
@@ -774,6 +767,7 @@ id_xiutao:
     preview: "分享 Sentry 一些相关的经验。在豆瓣内部 Sentry 的使用情况，Sentry 迁移经验。以及一些 Sentry 的内部机制，内部实现，以及一些吐槽。blablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablabla 凑不够字数。。"
     preview_en: Share some experiences of using Sentry. How Sentry is used in Douban, and Sentry migration, the internal mechanism of Sentry, and some complaints. 
     slide: #
+    slide: #
 
 id_Bouriez:
   name: Guillaume Bouriez
@@ -791,21 +785,35 @@ id_Bouriez:
     slide: #
 
 
-id_none:
-  name: TBD
+id_meituan:
+  name: 陈博
   city_beijing: 1
   city: 北京
   city_en: Beijing
   avatar: http://pyconcn.qiniudn.com/zoomquiet/stuff14/cpug-logo-188x188.png?imageView2/2/h/80
-  intro:  ??
+  intro:  美团云计算后台研发工程师，非Python粉，只是工作中使用。毕业于中国科技大学，曾就职于Intel。目前研究方向为主机、虚拟化、云管理平台等。
   intro_en: Pythoneer...
   topic:
-    title: "?"
+    title: "用简单语言构建复杂系统"
     title_en: "?"
-    preview: ...
+    preview: 作为云计算领域的一个领头项目，OpenStack近年来的飞速发展，充分证明了Python语言构架大型复杂系统的可行性。美团云计算团队从3年前开始使用Python开发云计算系统，核心模块完全从零开始编写。目前的Python代码中自研部分有50万行，使用和维护的外部代码有10万行，并且通过Python与底层C代码模块对接（如存储和网络等），二十多个独立服务交互运行。积极吸收社区经验，采用如Tornado、SQLAlchemy、eventlet等成熟项目作为功能组件。作为美团云的最大用户，美团自己的大部分业务目前都跑在这个云计算平台上，产品形态从最初的公司内部私有云，到现在的公有云运营，一直保持快速迭代。美团云团队是Python语言的重度使用者，Python工程师们从开发、测试、运维等多个方面合力保障这套复杂系统的正常运行。
     preview_en: ...
     slide: #
 
+id_fb_rosieli:
+  name: Rosie Li (李若思)
+  city_beijing: 1
+  city: 北京
+  city_en: Beijing
+  avatar: http://pyconcn.qiniudn.com/zoomquiet/stuff15/id/fb_rosieli.jpg?imageView2/2/h/80
+  intro: Software Engineer at Facebook
+  intro_en: Software Engineer at Facebook
+  topic:
+    title: "Facebook and Python"
+    title_en: "Facebook and Python"
+    preview: (英文演讲)
+    preview_en: ...
+    slide: #
 
 ####################################################################
 #   杭州
@@ -816,18 +824,46 @@ id_none:
 #   |_| |_/____|
 #   
 ####################################################################
-id_nonehz:
-  name: TBD
+hz_linshuyong:
+  name: 林曙勇
   city_hangzhou: 1
   city: 杭州
   city_en: Hangzhou
-  avatar: http://pyconcn.qiniudn.com/zoomquiet/stuff14/cpug-logo-188x188.png?imageView2/2/h/80
-  intro:  ??
+  avatar: http://pyconcn.qiniudn.com/zoomquiet/stuff15/id/hz_linshuyong.jpg?imageView2/2/h/80
+  intro: 测试架构师，新测试方法和技术的探索者和实践者，相信测试可以比我们现在大多数人认识的更有创造性
   intro_en: Pythoneer...
   topic:
-    title: "?"
+    title: "基于Robot Framework的通用协议测试框架介绍"
     title_en: "?"
-    preview: ...
+    preview: Robot Framework是使用Python实现的开源的测试自动化框架，在测试自动化领域应用十分广泛，演讲者将重点介绍其在通用通信协议测试中的应用介绍。演讲者是来自诺基亚的测试架构师，新测试方法和技术的探索者和实践者，相信测试可以比我们现在大多数人认识的更有创造性
+    preview_en: ...
+    slide: #
+hz_zhangyu:
+  name: 张裕
+  city_hangzhou: 1
+  city: 杭州
+  city_en: Hangzhou
+  avatar: http://pyconcn.qiniudn.com/zoomquiet/stuff15/id/hz_zhangyu.jpg?imageView2/2/h/80
+  intro: 诺基亚测试自动化教练
+  intro_en: Pythoneer...
+  topic:
+    title: "也许是好的Python培训方式"
+    title_en: "?"
+    preview: 演讲者将介绍如何用Python的各种组件，搭起一个包含演示文稿，练习环境及测评的python培训环境。演讲者是来自诺基亚测试自动化教练。
+    preview_en: ...
+    slide: #
+id_ouyeel_hz:
+  name: 孔令开
+  city_hangzhou: 1
+  city: 杭州
+  city_en: Hangzhou
+  avatar: http://pyconcn.qiniudn.com/zoomquiet/stuff15/id/id_ouyeel_gz.jpg?imageView2/2/h/80
+  intro:  曾在微软服务器与工具部门任高级工程师，负责开发家庭服务器与中小企业服务器。微软毕业后投身钢铁电商，负责上海交易中心技术架构，热爱python以及开源项目，对搜索引擎以及各种创业项目十分关注。
+  intro_en: Pythoneer...
+  topic:
+    title: "简单实用的自制Rest API工具"
+    title_en: "?"
+    preview: 一个简单的小工具，一秒五行写出pythonic的api接口，自动生成接口文档，js调用代码，ios客户端调用代码，ng调用代码...
     preview_en: ...
     slide: #
 
